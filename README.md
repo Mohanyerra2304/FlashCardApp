@@ -1,5 +1,5 @@
 # FlashCardApp
-# Flashcard-App
+
 ## Overview
 It is an interactive language learning application that uses flashcards to help users improve their vocabulary in a fun and engaging way. The app displays French words on one side of a card, and their English translations on the other. Users can mark words they already know, ensuring a personalized learning experience by focusing on unfamiliar words.
 
@@ -32,13 +32,13 @@ It is an interactive language learning application that uses flashcards to help 
 
 ## ScreenShots
 
-![Translation Display](FlashCard/ScreenShots/Screenshot (195).png)
+![Translation Display](FlashCard/ScreenShots/sc1.png)
 
-![Translation Display](FlashCard/ScreenShots/Screenshot (196).png)
+![Translation Display](FlashCard/ScreenShots/sc2.png)
 
-![Translation Display](FlashCard/ScreenShots/Screenshot (197).png)
+![Translation Display](FlashCard/ScreenShots/sc3.png)
 
-![Translation Display](FlashCard/ScreenShots/Screenshot (198).png)
+![Translation Display](FlashCard/ScreenShots/sc4.png)
 
 
 
