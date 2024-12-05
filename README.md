@@ -32,6 +32,24 @@ It is an interactive language learning application that uses flashcards to help 
 
 ## Screenshots
 
+<div style="display: flex; justify-content: space-around;">
+
+  <img src="FlashCard/ScreenShots/sc1.png" alt="Flashcard Screen" width="20%" />
+  <img src="FlashCard/ScreenShots/sc2.png" alt="Flashcard Screen" width="20%" />
+  <img src="FlashCard/ScreenShots/sc3.png" alt="Flashcard Screen" width="20%" />
+  <img src="FlashCard/ScreenShots/sc4.png" alt="Flashcard Screen" width="20%" />
+  
+</div>
+
+
+
+
+
+
+
+
+
+
 |-------------------------------------------|-------------------------------------------|
 | ![Translation Display](FlashCard/ScreenShots/sc1.png)      | ![Translation Display](FlashCard/ScreenShots/sc2.png)     |
 
