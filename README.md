@@ -30,13 +30,17 @@ It is an interactive language learning application that uses flashcards to help 
 - Python 3
 - Libraries: `tkinter`, `pandas`
 
-## ScreenShots
+## Screenshots
 
-![Translation Display](FlashCard/ScreenShots/sc1.png)           ![Translation Display](FlashCard/ScreenShots/sc2.png)
+|-------------------------------------------|-------------------------------------------|
+| ![Translation Display](FlashCard/ScreenShots/sc1.png)      | ![Translation Display](FlashCard/ScreenShots/sc2.png)     |
+
+
+|-------------------------------------------|-------------------------------------------|
+| ![Translation Display](FlashCard/ScreenShots/sc3.png)      | ![Translation Display](FlashCard/ScreenShots/sc4.png)     |
 
 
 
-![Translation Display](FlashCard/ScreenShots/sc3.png)           ![Translation Display](FlashCard/ScreenShots/sc4.png)
 
 
 
